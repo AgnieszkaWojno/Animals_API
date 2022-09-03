@@ -1,0 +1,8 @@
+https://meowfacts.herokuapp.com/
+https://alexwohlbruck.github.io/cat-facts/
+https://kinduff.github.io/dog-api/
+https://docs.bruzu.com/
+
+https://dog-api.kinduff.com/api/facts
+
+https://coffee.alexflipnote.dev/random.json
